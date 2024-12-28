@@ -24,7 +24,7 @@
     "elite": "Elite",
     "processing_banner": "Processing {bannerName} banner...",
     "import_guide": {
-      "launch_game": "Launch Girls&apos; Frontline 2: Exilium",
+      "launch_game": "Launch Girls' Frontline 2: Exilium",
       "launch_game_description": "Open the game and navigate to the in-game access records page",
       "open_powershell": "Open Windows PowerShell and Select Server",
       "copy_command": "Copy the command and paste it into PowerShell",

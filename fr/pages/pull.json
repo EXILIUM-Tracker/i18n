@@ -1,0 +1,50 @@
+{
+  "card_pool_type": {
+    "type_3": "Targeted Procurement",
+    "type_4": "Military Upgrade",
+    "type_1": "Standard Procurement",
+    "type_5": "Beginner Procurement"
+  },
+  "procurement": {
+    "recent_procurements": "Recent Procurements",
+    "access_records": "Access Records",
+    "no_access_records": "No access records",
+    "pull_number": "Pull No.",
+    "item": "Item",
+    "pity": "Pity",
+    "pulled_at": "Pulled At",
+    "total_pulls": "Total Pulls",
+    "collapse_piece": "Collapse Piece",
+    "rate_up_wins": "Rate Up Wins",
+    "rate_up_sr": "Rate Up SR",
+    "ssr_pity": "SSR Pity",
+    "sr_pity": "SR Pity",
+    "retired": "Retired",
+    "standard": "Standard",
+    "elite": "Elite",
+    "processing_banner": "Processing {bannerName} banner...",
+    "import_guide": {
+      "launch_game": "Launch Girls&apos; Frontline 2: Exilium",
+      "launch_game_description": "Open the game and navigate to the in-game access records page",
+      "open_powershell": "Open Windows PowerShell and Select Server",
+      "copy_command": "Copy the command and paste it into PowerShell",
+      "run_command": "Run the command",
+      "paste_the_json_textbox_label": "Paste the JSON below",
+      "paste_the_json": "Paste the copied JSON here",
+      "processing_banner": "Processing {bannerName} banner..."
+    },
+    "import_success": "Imported records successfully",
+    "missing_uid_or_token": "Missing uid or token",
+    "different_uid_warning": "Warning: Different UID detected for profile \"{profileName}\". Previous: {previousUid}, Current: {currentUid}",
+    "copied_to_clipboard": "Copied to clipboard",
+    "server_error_or_invalid_token": "Server Error or Invalid Token"
+  },
+  "global_statistic": {
+    "procurements_per_day": "Procurements Per Day",
+    "ssr_pity_distribution": "SSR Pity Distribution",
+    "sr_pity_distribution": "SR Pity Distribution",
+    "pity_value": "Pity: {value}",
+    "ssr_procurement": "SSR Procurement",
+    "sr_procurement": "SR Procurement"
+  }
+}

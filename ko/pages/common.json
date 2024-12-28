@@ -1,0 +1,37 @@
+{
+  "select_at_least_one_rarity_filter": "Select at least one rarity filter",
+  "help_with_translation": "Help with translation",
+  "total": "Total",
+  "count": "Count",
+  "search": "Search",
+  "filter": "Filter",
+  "select_filter": "Select filter...",
+  "cancel": "Cancel",
+  "delete": "Delete",
+  "save_changes": "Save Changes",
+  "all": "All",
+  "completed": "Completed",
+  "incomplete": "Incomplete",
+  "menu": {
+    "exilium_tracker": "EXILIUM Tracker",
+    "platform": "Platform",
+    "procurement_tracker": "Procurement Tracker",
+    "global_statistics": "Global Statistics",
+    "achievements": "Achievements",
+    "guides": "Guides",
+    "import_access_record": "Import Access Record",
+    "database": "Database",
+    "dolls": "Dolls",
+    "weapons": "Weapons",
+    "feature_request": "Feature Request",
+    "settings": "Settings",
+    "privacy_policy": "Privacy Policy"
+  },
+  "theme": {
+    "light": "Light",
+    "dark": "Dark"
+  },
+  "auth": {
+    "continue_with_google": "Continue with Google"
+  }
+}

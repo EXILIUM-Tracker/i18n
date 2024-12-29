@@ -45,6 +45,7 @@
     "sr_pity_distribution": "SR Pity Distribution",
     "pity_value": "Pity: {value}",
     "ssr_procurement": "SSR Procurement",
-    "sr_procurement": "SR Procurement"
+    "sr_procurement": "SR Procurement",
+    "chance": "Chance"
   }
 }

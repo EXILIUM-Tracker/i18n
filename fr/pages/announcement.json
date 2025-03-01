@@ -1,5 +1,5 @@
 {
-  "translation_announcement": "Help us translate the website into your language on <link>Github</link>",
-  "route_beta_announcement": "The {route} page is currently in beta. Please report any issues on <link>Github</link>",
-  "google_drive_sync_announcement": "Login with Google to sync your pulls data to Google Drive. Click the profile icon in the top right to get started."
+  "translation_announcement": "Aidez-nous à traduire le site web dans votre langue sur <link>Github</link>",
+  "route_beta_announcement": "La page {route} est actuellement en version bêta. Veuillez signaler tout problème sur <link>Github</link>",
+  "google_drive_sync_announcement": "Connectez-vous avec Google pour synchroniser vos données de pulls sur Google Drive. Cliquez sur l'icône de profil en haut à droite pour commencer."
 }

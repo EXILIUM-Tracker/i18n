@@ -8,7 +8,7 @@
   },
   "procurement": {
     "recent_procurements": "Acquisitions récentes",
-    "no_recent_procurements_found": "No recent procurements found",
+    "no_recent_procurements_found": "Aucune acquisition récente trouvée",
     "access_records": "Historique d'accès",
     "no_access_records": "Pas d'historique d'accès",
     "pull_number": "Numéro de tirage",
@@ -32,15 +32,15 @@
     "processing_banner": "Traitement de la bannière {bannerName}...",
     "banner_rerun": "{bannerName} ({rerunNumber, selectordinal, one {#st} two {#nd} few {#rd} other {#th}} Rerun)",
     "luck_rating": {
-      "pull_more_to_unlock": "Pull more to unlock",
-      "no_pull_statistic": "No pull statistic",
-      "average_pity_luck": "Average Pity Luck",
-      "pull_ratio_luck": "Pull Ratio Luck",
-      "rate_up_luck": "Rate Up Luck",
-      "top": "Top",
-      "bottom": "Bottom",
-      "luckier_than_percentage_of_users": "Luckier than {percentage}% of users",
-      "unluckier_than_percentage_of_users": "Unluckier than {percentage}% of users"
+      "pull_more_to_unlock": "Tirez plus pour débloquer",
+      "no_pull_statistic": "Aucune statistique de tirage",
+      "average_pity_luck": "Chance moyenne de malchance",
+      "pull_ratio_luck": "Chance du ratio de tirage",
+      "rate_up_luck": "Chance taux augmenté",
+      "top": "Haut",
+      "bottom": "Bas",
+      "luckier_than_percentage_of_users": "Plus chanceux que {percentage}% des utilisateurs",
+      "unluckier_than_percentage_of_users": "Moins chanceux que {percentage}% des utilisateurs"
     },
     "import_guide": {
       "launch_game": "Lancer Girls' Frontline 2: Exilium",
@@ -141,24 +141,24 @@
         "modified_apk_notice": "Avertissement : Il s'agit d'une version modifiée/patché de l'APK du jeu. Bien que la modification n'active que l'inspection HTTPS pour l'importation des données et n'affecte pas le gameplay, l'utilisation des APK modifiés comporte toujours des risques. Utilisez-le à votre discrétion."
       },
       "automatic_import": {
-        "automatic_import_notice": "This method will automatically fetch your recruitment records using PowerShell. Click the button below to start, then paste the command in PowerShell.",
-        "automatic_beta_notice": "Please note: The automatic import feature is currently in beta. While we've tested it extensively, you may encounter occasional issues. If you experience any problems, please try the other import method or report the issue on <link>GitHub</link>.",
-        "discord_support_notice": "If you encounter any issues or have questions, feel free to join our <strong>Discord community</strong> for support and assistance. Join us at <link>discord.gg/T2vpuvkrKn</link>.",
-        "video_tutorial": "Video Tutorial",
-        "start_import": "Start Import",
-        "cancel_import": "Cancel Import",
-        "retry_import": "Retry Import",
-        "waiting_for_powershell": "Waiting for PowerShell",
-        "waiting_for_powershell_description": "Command has been copied to clipboard. Please open PowerShell and press Ctrl+V to paste. You can view the script content <link>here</link>.",
-        "authentication_successful": "Authentication Successful",
-        "authentication_successful_description": "Please select your server in PowerShell to continue...",
-        "fetching_records": "Fetching Records",
-        "fetching_records_description": "Please wait while we fetch your gacha records...",
-        "import_complete": "Import Complete",
-        "import_complete_description": "Successfully imported your recruitment records!",
-        "error_server_error_or_invalid_token": "Server Error or Invalid Token",
-        "error_failed_to_fetch_records": "Failed to fetch pull records",
-        "error_unknown_error": "Unknown error"
+        "automatic_import_notice": "Cette méthode va automatiquement récupérer vos enregistrements de recrutement en utilisant PowerShell. Cliquez sur le bouton ci-dessous pour commencer, puis collez la commande dans PowerShell.",
+        "automatic_beta_notice": "Veuillez noter : La fonction d'importation automatique est actuellement en version bêta. Bien que nous l'ayons testée de manière approfondie, vous pouvez rencontrer des problèmes occasionnels. Si vous rencontrez des problèmes, essayez l'autre méthode d'importation ou signalez le problème sur <link>GitHub</link>.",
+        "discord_support_notice": "Si vous rencontrez des problèmes ou avez des questions, n'hésitez pas à rejoindre notre <strong>communauté Discord</strong> pour obtenir de l'aide et des conseils. Rejoignez-nous sur <link>discord.gg/T2vpuvkrKn</link>.",
+        "video_tutorial": "Tutoriel vidéo",
+        "start_import": "Démarrer l'importation",
+        "cancel_import": "Annuler l'importation",
+        "retry_import": "Réessayer l'importation",
+        "waiting_for_powershell": "En attente de PowerShell",
+        "waiting_for_powershell_description": "La commande a été copiée dans le presse-papiers. Veuillez ouvrir PowerShell et appuyer sur Ctrl+V pour coller. Vous pouvez consulter le contenu du script <link>ici</link>.",
+        "authentication_successful": "Authentification réussie",
+        "authentication_successful_description": "Veuillez sélectionner votre serveur dans PowerShell pour continuer...",
+        "fetching_records": "Récupération des enregistrements",
+        "fetching_records_description": "Veuillez patienter pendant que nous récupérons vos enregistrements de gacha...",
+        "import_complete": "Importation terminée",
+        "import_complete_description": "Vos enregistrements de recrutement ont été importés avec succès!",
+        "error_server_error_or_invalid_token": "Erreur du serveur ou jeton invalide",
+        "error_failed_to_fetch_records": "Échec de la récupération des enregistrements de tirage",
+        "error_unknown_error": "Erreur inconnue"
       }
     },
     "import_success": "Enregistrements importés avec succès",
@@ -168,8 +168,8 @@
     "server_error_or_invalid_token": "Erreur serveur ou jeton invalide",
     "could_not_find_required_data": "Impossible de trouver les données requises dans le fichier journal",
     "please_upload_a_player_log_file": "Veuillez télécharger un fichier Player.log",
-    "privacy_notice": "Privacy Notice",
-    "need_help": "Need Help?"
+    "privacy_notice": "Avis de confidentialité",
+    "need_help": "Besoin d'aide?"
   },
   "global_statistic": {
     "procurements_per_day": "Acquisitions par jour",

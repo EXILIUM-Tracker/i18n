@@ -1,15 +1,15 @@
 {
-  "enter_amount": "Enter amount",
-  "or": "or",
-  "enter_pulls": "Enter pulls",
+  "enter_amount": "Entrez le montant",
+  "or": "ou",
+  "enter_pulls": "Entrez les pulls",
   "count_pulls": "{count} pulls",
   "count_tokens": "{count} tokens",
   "count_pulls_tokens": "{countPulls} pulls ({countTokens} tokens)",
   "count_tokens_pulls": "{countTokens} tokens ({countPulls} pulls)",
   "double": "Double",
-  "one_time_only": "One-Time Only",
-  "already_purchased": "Already Purchased",
-  "credit_token": "Credit Token",
+  "one_time_only": "Une seule fois",
+  "already_purchased": "Déjà acheté",
+  "credit_token": "Token de crédit",
   "bonus_2x": "Bonus 2x",
-  "price": "Price"
+  "price": "Prix"
 }

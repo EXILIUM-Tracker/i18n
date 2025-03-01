@@ -4,13 +4,13 @@
   "total": "Total",
   "count": "Compte",
   "search": "Rechercher",
-  "search_banner": "Search banner...",
-  "all_banners": "All Banners",
-  "no_banner_found": "No banner found",
-  "no_pull_data": "No pull data",
+  "search_banner": "Rechercher une bannière...",
+  "all_banners": "Toutes les bannières",
+  "no_banner_found": "Aucune bannière trouvée",
+  "no_pull_data": "Aucune donnée de tirage",
   "filter": "Filtrer",
   "select_filter": "Sélectionner un filtre...",
-  "edit": "Edit",
+  "edit": "Modifier",
   "cancel": "Annuler",
   "delete": "Supprimer",
   "save_changes": "Save changes",
@@ -19,12 +19,12 @@
   "incomplete": "Incomplet",
   "table_view": "Vue en tableau",
   "grid_view": "Vue en grille",
-  "add_item": "Add Item",
-  "summary": "Summary",
-  "scroll_for_more": "Scroll for more",
+  "add_item": "Ajouter un élément",
+  "summary": "Résumé",
+  "scroll_for_more": "Faites défiler pour plus",
   "t_doll": "T-Doll",
-  "weapon": "Weapon",
-  "save": "Save",
+  "weapon": "Arme",
+  "save": "Enregistrer",
   "menu": {
     "platform": "Plateforme",
     "procurement_tracker": "Suivi des achats",
@@ -42,19 +42,19 @@
     "calculator": "Calculatrice",
     "credit_token_price": "Prix du jeton de crédit",
     "pull_simulator": "Simulateur de tirage",
-    "planner": "Planner",
-    "items": "Items"
+    "planner": "Planificateur",
+    "items": "Éléments"
   },
   "theme": {
     "light": "Clair",
     "dark": "Sombre",
-    "toggle_theme": "Toggle theme"
+    "toggle_theme": "Changer le thème"
   },
   "auth": {
     "continue_with_google": "Continuer avec Google",
-    "sign_out": "Sign out"
+    "sign_out": "Se déconnecter"
   },
-  "close": "Close",
-  "back": "Back",
-  "go_back": "Go back"
+  "close": "Fermer",
+  "back": "Retour",
+  "go_back": "Retourner"
 }

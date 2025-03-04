@@ -37,6 +37,7 @@
       "average_pity_luck": "Average Pity Luck",
       "pull_ratio_luck": "Pull Ratio Luck",
       "rate_up_luck": "Rate Up Luck",
+      "lifetime_pulls_rating": "Lifetime Pulls Rating",
       "top": "Top",
       "bottom": "Bottom",
       "luckier_than_percentage_of_users": "Luckier than {percentage}% of users",

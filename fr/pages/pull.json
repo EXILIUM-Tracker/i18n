@@ -37,6 +37,7 @@
       "average_pity_luck": "Chance moyenne de malchance",
       "pull_ratio_luck": "Chance du ratio de tirage",
       "rate_up_luck": "Chance taux augmenté",
+      "lifetime_pulls_rating": "Lifetime Pulls Rating",
       "top": "Haut",
       "bottom": "Bas",
       "luckier_than_percentage_of_users": "Plus chanceux que {percentage}% des utilisateurs",

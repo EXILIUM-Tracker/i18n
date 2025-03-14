@@ -56,5 +56,7 @@
   },
   "close": "Close",
   "back": "Back",
-  "go_back": "Go back"
+  "go_back": "Go back",
+  "no_results_found": "No results found",
+  "try_adjusting_your_search_or_filters": "Try adjusting your search or filters"
 }

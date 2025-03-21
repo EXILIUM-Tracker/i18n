@@ -1,5 +1,5 @@
 {
-  "translation_announcement": "Help us translate the website into your language on <link>Github</link>",
-  "route_beta_announcement": "The {route} page is currently in beta. Please report any issues on <link>Github</link>",
-  "google_drive_sync_announcement": "Login with Google to sync your pulls data to Google Drive. Click the profile icon in the top right to get started."
+  "translation_announcement": "<link>Github</link>で翻訳を協力してお願いします。",
+  "route_beta_announcement": "この{route}ページは、現在ベータ版のテスト中です。問題点が見つかる場合、<link>Github</link>でissueを作成してください。",
+  "google_drive_sync_announcement": "Googleアカウントでログインし、データをGoogleドライブに同期できます。右上のプロファイルアイコンをタップし、使用方法を確認してください。"
 }

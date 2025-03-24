@@ -1,5 +1,5 @@
 {
-  "translation_announcement": "Help us translate the website into your language on <link>Github</link>",
-  "route_beta_announcement": "The {route} page is currently in beta. Please report any issues on <link>Github</link>",
-  "google_drive_sync_announcement": "Login with Google to sync your pulls data to Google Drive. Click the profile icon in the top right to get started."
+  "translation_announcement": "幫助我們在<link>Github</link>上將網站翻譯成您的語言",
+  "route_beta_announcement": "{route} 頁面目前處於測試階段。請在<link>Github</link>上回報任何問題",
+  "google_drive_sync_announcement": "使用 Google 登入將您的抽卡資料同步到 Google Drive。點擊右上角的個人資料圖示開始同步。"
 }

@@ -37,7 +37,7 @@
       "average_pity_luck": "Chance moyenne de malchance",
       "pull_ratio_luck": "Chance du ratio de tirage",
       "rate_up_luck": "Chance taux augmenté",
-      "lifetime_pulls_rating": "Lifetime Pulls Rating",
+      "lifetime_pulls_rating": "Évaluation des tirages totaux",
       "top": "Haut",
       "bottom": "Bas",
       "luckier_than_percentage_of_users": "Plus chanceux que {percentage}% des utilisateurs",
@@ -163,9 +163,9 @@
       },
       "ios": {
         "method1": {
-          "step1": "Install Stream - Network Debug Tool from the <link>App Store</link>",
-          "step2": "Follow the video tutorial until the <mark>1:40</mark> mark",
-          "step3": "Paste the copied data below"
+          "step1": "Installez Stream - Network Debug Tool depuis l\u2019<link>App Store</link>",
+          "step2": "Suivez le tutoriel vidéo jusqu'à la marque <mark>1:40</mark>",
+          "step3": "Collez les données copiées ci-dessous"
         }
       }
     },

@@ -1,6 +1,6 @@
 {
   "hey_commander": "嘿, <span class=\"gfl2-font-bold gfl2-text-primary\">指揮官！!</span>",
-  "welcome_to_exilium_tracker": "歡迎來到 EXILIUM Tracker —— 您在《少女前線2：Exilium》的全方位夥伴。在這裡您可以追蹤採購歷史和成就，查看全球統計數據，管理多個帳號，並在各設備間同步資料。",
+  "welcome_to_exilium_tracker": "歡迎來到 EXILIUM Tracker —— 您在《少女前線2：追放》的全方位夥伴。在這裡您可以追蹤採購歷史和成就，查看全球統計數據，管理多個帳號，並在各設備間同步資料。",
   "quick_links": "快速連結",
   "import_data": "匯入資料",
   "import_data_description": "匯入您的採購歷史",
@@ -28,6 +28,6 @@
   "legal": "法律條款",
   "server_statistics": "伺服器統計",
   "total_across_all_servers": "所有伺服器總計",
-  "users_count": "{count, plural, =0 {No users yet} =1 {user} other {users}}",
-  "pulls_count": "{count, plural, =0 {No pulls yet} =1 {pull} other {pulls}}"
+  "users_count": "{count, plural, =0 {目前沒有用戶} =1 {位用戶} other {位用戶}}",
+  "pulls_count": "{count, plural, =0 {目前沒有抽卡紀錄} =1 {次抽卡} other {次抽卡}}"
 }

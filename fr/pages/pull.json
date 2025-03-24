@@ -163,7 +163,7 @@
       },
       "ios": {
         "method1": {
-          "step1": "Installez Stream - Network Debug Tool depuis l\u2019<link>App Store</link>",
+          "step1": "Installez Stream - Network Debug Tool depuis l’<link>App Store</link>",
           "step2": "Suivez le tutoriel vidéo jusqu'à la marque <mark>1:40</mark>",
           "step3": "Collez les données copiées ci-dessous"
         }

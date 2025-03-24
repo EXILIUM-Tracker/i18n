@@ -1,15 +1,15 @@
 {
-  "enter_amount": "Enter amount",
-  "or": "or",
-  "enter_pulls": "Enter pulls",
-  "count_pulls": "{count} pulls",
-  "count_tokens": "{count} tokens",
-  "count_pulls_tokens": "{countPulls} pulls ({countTokens} tokens)",
-  "count_tokens_pulls": "{countTokens} tokens ({countPulls} pulls)",
-  "double": "Double",
-  "one_time_only": "One-Time Only",
-  "already_purchased": "Already Purchased",
-  "credit_token": "Credit Token",
-  "bonus_2x": "Bonus 2x",
-  "price": "Price"
+  "enter_amount": "輸入金額",
+  "or": "或",
+  "enter_pulls": "輸入抽卡次數",
+  "count_pulls": "{count} 次抽卡",
+  "count_tokens": "{count} 信用幣",
+  "count_pulls_tokens": "{countPulls} 次抽卡 ({countTokens} 信用幣)",
+  "count_tokens_pulls": "{countTokens} 信用幣 ({countPulls} 次抽卡)",
+  "double": "雙倍",
+  "one_time_only": "僅限一次",
+  "already_purchased": "已購買",
+  "credit_token": "信用幣",
+  "bonus_2x": "首儲雙倍2x",
+  "price": "價格"
 }

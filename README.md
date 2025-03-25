@@ -10,6 +10,7 @@ This directory contains translations for the application in the following langua
 - Français (French)
 - 日本語 (Japanese)
 - 한국어 (Korean)
+- Polski (Polish)
 - Português (Portuguese)
 - ภาษาไทย (Thai)
 - 简体中文 (Simplified Chinese)

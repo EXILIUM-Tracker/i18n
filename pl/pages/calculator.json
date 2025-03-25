@@ -1,0 +1,15 @@
+{
+  "enter_amount": "Enter amount",
+  "or": "or",
+  "enter_pulls": "Enter pulls",
+  "count_pulls": "{count} pulls",
+  "count_tokens": "{count} tokens",
+  "count_pulls_tokens": "{countPulls} pulls ({countTokens} tokens)",
+  "count_tokens_pulls": "{countTokens} tokens ({countPulls} pulls)",
+  "double": "Double",
+  "one_time_only": "One-Time Only",
+  "already_purchased": "Already Purchased",
+  "credit_token": "Credit Token",
+  "bonus_2x": "Bonus 2x",
+  "price": "Price"
+}

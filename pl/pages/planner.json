@@ -1,0 +1,18 @@
+{
+  "no_items_added": "No items added yet",
+  "click_the_plus_button_to_add": "Click \"Add Item\" button to get started",
+  "choose_doll": "Choose T-Doll",
+  "select_weapon": "Select Weapon",
+  "ready": "Ready",
+  "need_more": "Need {count} more",
+  "available": "{count} available",
+  "neural_helix": "Neural Helix",
+  "amount": "Amount",
+  "required_count": "Required: {count}",
+  "add_to_planner": "Add to Planner",
+  "ascension_level": "Ascension Level",
+  "level": "Level",
+  "previous_level_must_be_between": "Previous level must be between {min} and {max}",
+  "target_level_must_be_between": "Target level must be between {min} and {max}",
+  "level_from_to": "Level {from} → {to}"
+}

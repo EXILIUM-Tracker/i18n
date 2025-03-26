@@ -14,5 +14,6 @@
   "level": "キャラレベル",
   "previous_level_must_be_between": "開始レベルは {min} から {max} までにしてください",
   "target_level_must_be_between": "目標レベルは {min} から {max} までにしてください",
-  "level_from_to": "レベル {from} → {to}"
+  "level_from_to": "レベル {from} → {to}",
+  "checked_nodes_indicate_which_neural_helix_nodes_you_want_to_unlock": "Checked nodes indicate which Neural Helix nodes you want to unlock. The planner will calculate materials needed for all selected nodes."
 }

@@ -56,6 +56,7 @@
       "automatic": "自動",
       "method_1": "方法1",
       "method_2": "方法2",
+      "method_scan": "Banner Scan",
       "method_diy": "自分でやってみる(DIY)",
       "method_prepatched": "事前適用済み",
       "open_file_explorer": "ファイルエクスプローラーを開く",
@@ -139,7 +140,16 @@
         "storage_access_description": "Termuxにデバイスのストレージへのアクセスを許可してください",
         "risk_notice": "この方法はネットワーク解析目的の一般的な手法ですが、使用は自己責任で行ってください。この方法は、HTTPS検査のためにSSLピンニングをバイパスするだけであり、ゲームの機能を変更するものではありません。現在様々なテストが行われ、問題なく使用されています。",
         "x64_device_notice": "この方法はx64/x86ベースのデバイス（Androidエミュレーターなど）でのみ動作できます。Androidスマートフォン（ARMデバイス）ではほぼ動作できません。",
-        "modified_apk_notice": "警告: これは事前パッチ適用されたゲームAPKです。この修正はデータインポートのためのHTTPS検査を有効にするだけで、ゲームプレイには影響しませんが、修正されたAPKの使用には常にリスクが伴います。自己責任で使用してください。"
+        "modified_apk_notice": "警告: これは事前パッチ適用されたゲームAPKです。この修正はデータインポートのためのHTTPS検査を有効にするだけで、ゲームプレイには影響しませんが、修正されたAPKの使用には常にリスクが伴います。自己責任で使用してください。",
+        "ocr_warning": "This method uses OCR to extract gacha records from screenshots. For best results, take clear screenshots of your Access Records page.",
+        "take_screenshots": "Take screenshots",
+        "take_screenshots_description": "Take clear screenshots of your Access Records pages. Navigate through all pages using the arrow buttons.",
+        "upload_screenshots": "Upload screenshots",
+        "upload_screenshots_description": "Upload the screenshots you took of your Access Records.",
+        "process_screenshots": "Process screenshots",
+        "process_screenshots_description": "Click the button below to process the screenshots and extract gacha records.",
+        "scan_error": "Error analyzing screenshots",
+        "processing_images": "Processing banner images..."
       },
       "automatic_import": {
         "automatic_import_notice": "この方法はPowerShellによって自動的にデータを取集します。開始ボタンをクリックした後、PowerShellにコマンドを貼ってください。",
@@ -172,6 +182,7 @@
     "import_success": "インポートは成功しました",
     "missing_uid_or_token": "無効なuidまたはtoken",
     "different_uid_warning": "警告: 存在していたアカウント \"{profileName}\" に対して異なるUIDが検出されました。現在：{previousUid}、検出：{currentUid}",
+    "server_combination_warning_description": "Server and UID combination already exists in another profile",
     "copied_to_clipboard": "コピーしました",
     "server_error_or_invalid_token": "サーバーエラー、または無効なtoken",
     "could_not_find_required_data": "ログファイル内に必要なデータが見つかりませんでした",

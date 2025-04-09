@@ -56,6 +56,7 @@
       "automatic": "Automatic",
       "method_1": "Méthode 1",
       "method_2": "Méthode 2",
+      "method_scan": "Banner Scan",
       "method_diy": "Faites-le vous-même",
       "method_prepatched": "Prépatché",
       "open_file_explorer": "Ouvrir l'Explorateur de fichiers",
@@ -139,7 +140,16 @@
         "storage_access_description": "Autorisez Termux à accéder au stockage de votre appareil",
         "risk_notice": "Utilisez cette méthode à vos risques et périls. Bien que cela ne contourne que la validation SSL pour l'inspection HTTPS et n'affecte pas la fonctionnalité du jeu, cette méthode a été largement testée sans problème et est couramment utilisée pour l'analyse réseau.",
         "x64_device_notice": "Cette méthode fonctionne uniquement sur les appareils basés sur x64/x86 (comme les émulateurs Android). Elle ne fonctionnera pas sur les appareils ARM comme la plupart des téléphones Android.",
-        "modified_apk_notice": "Avertissement : Il s'agit d'une version modifiée/patché de l'APK du jeu. Bien que la modification n'active que l'inspection HTTPS pour l'importation des données et n'affecte pas le gameplay, l'utilisation des APK modifiés comporte toujours des risques. Utilisez-le à votre discrétion."
+        "modified_apk_notice": "Avertissement : Il s'agit d'une version modifiée/patché de l'APK du jeu. Bien que la modification n'active que l'inspection HTTPS pour l'importation des données et n'affecte pas le gameplay, l'utilisation des APK modifiés comporte toujours des risques. Utilisez-le à votre discrétion.",
+        "ocr_warning": "This method uses OCR to extract gacha records from screenshots. For best results, take clear screenshots of your Access Records page.",
+        "take_screenshots": "Take screenshots",
+        "take_screenshots_description": "Take clear screenshots of your Access Records pages. Navigate through all pages using the arrow buttons.",
+        "upload_screenshots": "Upload screenshots",
+        "upload_screenshots_description": "Upload the screenshots you took of your Access Records.",
+        "process_screenshots": "Process screenshots",
+        "process_screenshots_description": "Click the button below to process the screenshots and extract gacha records.",
+        "scan_error": "Error analyzing screenshots",
+        "processing_images": "Processing banner images..."
       },
       "automatic_import": {
         "automatic_import_notice": "Cette méthode va automatiquement récupérer vos enregistrements de recrutement en utilisant PowerShell. Cliquez sur le bouton ci-dessous pour commencer, puis collez la commande dans PowerShell.",
@@ -172,6 +182,7 @@
     "import_success": "Enregistrements importés avec succès",
     "missing_uid_or_token": "UID ou jeton manquant",
     "different_uid_warning": "Avertissement : UID différent détecté pour le profil \"{profileName}\". Précédent : {previousUid}, Actuel : {currentUid}",
+    "server_combination_warning_description": "Server and UID combination already exists in another profile",
     "copied_to_clipboard": "Copié dans le presse-papiers",
     "server_error_or_invalid_token": "Erreur serveur ou jeton invalide",
     "could_not_find_required_data": "Impossible de trouver les données requises dans le fichier journal",

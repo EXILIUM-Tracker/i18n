@@ -24,6 +24,8 @@
     "rate_up_sr": "ピックアップ対象SR排出",
     "ssr_pity": "SSR天井",
     "sr_pity": "SR天井",
+    "avg_ssr_pity": "Average SSR Pity",
+    "avg_sr_pity": "Average SR Pity",
     "50/50 Win Rate": "50/50 排出",
     "75/25 Win Rate": "75/25 排出",
     "retired": "R",

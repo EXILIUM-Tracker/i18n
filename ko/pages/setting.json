@@ -69,5 +69,17 @@
     "syncing": "Syncing",
     "synced": "Synced",
     "error": "Error"
-  }
+  },
+  "delete_profile_itself": "Delete profile itself",
+  "all_profile_data_will_be_deleted": "All profile data will be deleted",
+  "select_data_to_delete": "Select data to delete",
+  "pull_history": "Pull History",
+  "achievements": "Achievements",
+  "planner_items": "Planner Items",
+  "inventory_items": "Inventory Items",
+  "select_data_to_delete_from_main_profile": "Select data to delete from main profile.",
+  "select_data_to_delete_from_profile_or_delete_profile": "Select data to delete from profile \"{profile_name}\" or delete the profile.",
+  "delete": "Delete",
+  "profile_data_deleted": "Profile data for \"{profile_name}\" deleted",
+  "save_changes": "Save Changes"
 }

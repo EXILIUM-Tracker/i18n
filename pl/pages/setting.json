@@ -81,5 +81,7 @@
   "select_data_to_delete_from_profile_or_delete_profile": "Select data to delete from profile \"{profile_name}\" or delete the profile.",
   "delete": "Delete",
   "profile_data_deleted": "Profile data for \"{profile_name}\" deleted",
-  "save_changes": "Save Changes"
+  "save_changes": "Save Changes",
+  "no_backup_found": "No backup found",
+  "last_synced_date_time": "Last synced: {date_time}"
 }

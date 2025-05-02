@@ -15,6 +15,7 @@ This directory contains translations for the application in the following langua
 - ภาษาไทย (Thai)
 - 简体中文 (Simplified Chinese)
 - 繁體中文 (Traditional Chinese)
+- Russian (Русский)
 
 ## Structure
 

@@ -1,0 +1,15 @@
+{
+  "enter_amount": "Введите сумму",
+  "or": "или",
+  "enter_pulls": "Введите число круток",
+  "count_pulls": "{count} круток",
+  "count_tokens": "{count} жетонов",
+  "count_pulls_tokens": "{countPulls} круток ({countTokens} жетонов)",
+  "count_tokens_pulls": "{countTokens} жетонов ({countPulls} круток)",
+  "double": "x2",
+  "one_time_only": "Одноразовое предложение",
+  "already_purchased": "Уже приобретено",
+  "credit_token": "Кредитные жетоны",
+  "bonus_2x": "Бонус x2",
+  "price": "Цена"
+}

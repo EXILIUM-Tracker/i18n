@@ -43,7 +43,8 @@
     "credit_token_price": "Credit Token Price",
     "pull_simulator": "Pull Simulator",
     "planner": "Planner",
-    "items": "Items"
+    "items": "Items",
+    "migration": "Data Migration Tool"
   },
   "theme": {
     "light": "Light",

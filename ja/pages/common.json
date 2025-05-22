@@ -43,7 +43,8 @@
     "credit_token_price": "クレジット価格",
     "pull_simulator": "訪問シミュレーター",
     "planner": "素材計算機",
-    "items": "アイテム"
+    "items": "アイテム",
+    "migration": "Data Migration Tool"
   },
   "theme": {
     "light": "ライト",

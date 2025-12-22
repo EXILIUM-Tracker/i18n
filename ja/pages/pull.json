@@ -4,7 +4,9 @@
     "type_4": "軍備拡張",
     "type_1": "常駐訪問",
     "type_5": "初心者訪問",
-    "type_8": "ミステリーボックス"
+    "type_8": "ミステリーボックス",
+    "type_6": "Custom Procurement - Dolls",
+    "type_7": "Custom Procurement - Weapons"
   },
   "procurement": {
     "recent_procurements": "最近の排出",

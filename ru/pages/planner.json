@@ -1,0 +1,19 @@
+{
+  "no_items_added": "Пока не добавлено ни одного элемента",
+  "click_the_plus_button_to_add": "Нажмите \"Добавить элемент\", чтобы начать",
+  "choose_doll": "Выберите куклу",
+  "select_weapon": "Выберите оружие",
+  "ready": "Готово",
+  "need_more": "Нужно больше {count}",
+  "available": "{count} доступно",
+  "neural_helix": "Neural Helix",
+  "amount": "Количество",
+  "required_count": "Необходимо: {count}",
+  "add_to_planner": "Добавить в планировщик",
+  "ascension_level": "Уровень возвышения",
+  "level": "Уровень",
+  "previous_level_must_be_between": "Изначальный уровень должен быть между {min} и {max}",
+  "target_level_must_be_between": "Целевой уровень должен быть между {min} и {max}",
+  "level_from_to": "Уровень {from} → {to}",
+  "checked_nodes_indicate_which_neural_helix_nodes_you_want_to_unlock": "Отмеченные узлы указывают, какие узлы Neural Helix вы планируете разблокировать. Планировщик рассчитает ресурсы, требуемые для всех выбранных узлов."
+}

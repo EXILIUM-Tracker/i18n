@@ -15,5 +15,5 @@
   "previous_level_must_be_between": "Le niveau précédent doit être entre {min} et {max}",
   "target_level_must_be_between": "Le niveau cible doit être entre {min} et {max}",
   "level_from_to": "Niveau {from} → {to}",
-  "checked_nodes_indicate_which_neural_helix_nodes_you_want_to_unlock": "Checked nodes indicate which Neural Helix nodes you want to unlock. The planner will calculate materials needed for all selected nodes."
+  "checked_nodes_indicate_which_neural_helix_nodes_you_want_to_unlock": "Les nœuds cochés indiquent quels nœuds Neural Helix vous souhaitez débloquer. Le planificateur calculera les matériaux nécessaires pour tous les nœuds sélectionnés."
 }

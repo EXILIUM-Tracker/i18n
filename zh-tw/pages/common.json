@@ -43,7 +43,8 @@
     "credit_token_price": "信用代幣價格",
     "pull_simulator": "抽卡模擬器",
     "planner": "計劃表",
-    "items": "道具"
+    "items": "道具",
+    "migration": "Data Migration Tool"
   },
   "theme": {
     "light": "亮色",

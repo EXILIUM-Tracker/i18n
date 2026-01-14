@@ -4,7 +4,9 @@
     "type_4": "軍備提升",
     "type_1": "標準採購",
     "type_5": "初始採購",
-    "type_8": "神秘箱"
+    "type_8": "神秘箱",
+    "type_6": "Custom Procurement - Dolls",
+    "type_7": "Custom Procurement - Weapons"
   },
   "procurement": {
     "recent_procurements": "最近採購",

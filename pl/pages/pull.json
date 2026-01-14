@@ -4,7 +4,9 @@
     "type_4": "Military Upgrade",
     "type_1": "Standard Procurement",
     "type_5": "Beginner Procurement",
-    "type_8": "Mystery Box"
+    "type_8": "Mystery Box",
+    "type_6": "Custom Procurement - Dolls",
+    "type_7": "Custom Procurement - Weapons"
   },
   "procurement": {
     "recent_procurements": "Recent Procurements",

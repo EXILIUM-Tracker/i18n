@@ -43,7 +43,8 @@
     "credit_token_price": "Prix du jeton de crédit",
     "pull_simulator": "Simulateur de tirage",
     "planner": "Planificateur",
-    "items": "Éléments"
+    "items": "Éléments",
+    "migration": "Data Migration Tool"
   },
   "theme": {
     "light": "Clair",
